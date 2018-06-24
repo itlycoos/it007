@@ -8,6 +8,6 @@ num = 4
 
 num = 5
 
-num = 7
-
 num = 6
+
+num = 7
